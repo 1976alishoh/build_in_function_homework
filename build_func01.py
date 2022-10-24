@@ -7,6 +7,5 @@ def main(n):
     Returns:
         absolute value: int
     """
-
     return n
 print(main(-8))
